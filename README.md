@@ -6,7 +6,7 @@ portable webserver with:
 
 - ![UI](https://github.com/coolzoom/Apache2Php7/blob/master/image.jpg)
 
-it is dedicate for wowemu regpage but you can use it for other small webserver purpose, with php7 you can use some beautiful website to host your reg page
+it is dedicate for wowemu regpage but you can use it for other small webserver purpose, with php7 you can use some beautiful website to host your reg page for example
 https://github.com/masterking32/WoWSimpleRegistration
 
 - ![UI](https://github.com/coolzoom/Apache2Php7/blob/master/image2.jpg)
