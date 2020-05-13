@@ -347,3 +347,10 @@ PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\\WOWServer\\Source
 [Wed May 13 15:43:36.143720 2020] [mpm_winnt:notice] [pid 33524:tid 768] AH00418: Parent: Created child process 42596
 PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\\WOWServer\\Source\\Apache2Php7\\website7\\php\\ext\\php_curl.dll' - \xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3\r\n in Unknown on line 0
 [Wed May 13 15:43:36.796619 2020] [mpm_winnt:notice] [pid 42596:tid 824] AH00354: Child: Starting 64 worker threads.
+PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\\WOWServer\\Source\\Apache2Php7\\website7\\php\\ext\\php_curl.dll' - \xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed May 13 16:59:10.241674 2020] [mpm_winnt:notice] [pid 65164:tid 796] AH00455: Apache/2.4.23 (Win32) PHP/7.1.11 configured -- resuming normal operations
+[Wed May 13 16:59:10.241674 2020] [mpm_winnt:notice] [pid 65164:tid 796] AH00456: Apache Lounge VC10 Server built: Jul  9 2016 11:13:35
+[Wed May 13 16:59:10.241674 2020] [core:notice] [pid 65164:tid 796] AH00094: Command line: 'httpd.exe -d H:/WOWServer/Source/Apache2Php7/website7/apache'
+[Wed May 13 16:59:10.243673 2020] [mpm_winnt:notice] [pid 65164:tid 796] AH00418: Parent: Created child process 65192
+PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\\WOWServer\\Source\\Apache2Php7\\website7\\php\\ext\\php_curl.dll' - \xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed May 13 16:59:10.908599 2020] [mpm_winnt:notice] [pid 65192:tid 828] AH00354: Child: Starting 64 worker threads.
